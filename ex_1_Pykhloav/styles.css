@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2%;
+}
+
+.dif_bg {
+    background-color: #faebd7;
+}
+
+.bg_change {
+    padding: 15px 25px;
+
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+    text-transform: uppercase;
+
+    border: none;
+    border-radius: 5px;
+    background-color: #000000;
+}
